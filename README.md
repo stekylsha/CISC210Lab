@@ -1,3 +1,5 @@
 # CISC210Lab
 =========
-## Put your group's name here
+## Team 3 
+Story: As a game user, I would like the game to follow the laws of physics so the game feels realistic!
+
