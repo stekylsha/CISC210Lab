@@ -1,8 +1,4 @@
 # CISC210Lab
 =========
-## Put your group's name here
-Carter
-Aaron
-Anthony
-Cameron
-Amir
+## Put your JIRA story here
+Make a pretty background.
